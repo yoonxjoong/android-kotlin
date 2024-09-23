@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "My Application"
 include(":app")
 include(":ch8_event")
+include(":ch10_notification")
