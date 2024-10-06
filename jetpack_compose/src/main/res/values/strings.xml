@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jetpack_compose</string>
+    <string name="home">home</string>
+    <string name="profile">Kim</string>
+</resources>

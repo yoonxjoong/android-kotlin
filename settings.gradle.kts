@@ -23,3 +23,5 @@ rootProject.name = "My Application"
 include(":app")
 include(":ch8_event")
 include(":ch10_notification")
+include(":memo_app")
+include(":jetpack_compose")
